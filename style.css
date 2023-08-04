@@ -1,0 +1,125 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow:hidden;
+
+}
+
+.container{
+/* border:2px red solid; */
+width: 100vw; 
+height: 100vh;
+ background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg"); 
+ 
+
+}
+ .log{
+ 
+    background-color: rgba(0, 0, 0, 0.7);
+    height:100%;
+    width: 100%;
+
+ }
+
+.navbar{
+    
+ 
+    width: 100%;
+    height: 20%; 
+    /* display: inline-block; */
+    /* vertical-align: middle; */
+    /* border: 2px red solid; */
+    
+    
+    /* text-align: center; */
+   
+}
+.logo{
+    width: 40%;
+    height: 100%;
+    /* border: 2px solid white; */
+    /* margin-top: 50px;
+    margin-left:120px; */
+   /* padding:5px; */
+   display:inline-block;
+   /* vertical-align: middle; */
+   text-align: center;
+
+}
+
+
+img{
+    width: 50%;
+    margin-top: 1rem;
+    height: 50%;
+    /* border: 2px white solid; */
+   
+}
+ .btns_container{
+  
+    /* width: 300px; */
+    width: 59%;
+    height: 100%;
+    margin-right:10px;
+    display:inline-block;
+    /* margin-left:65vw; */
+    /* margin-top:50px; */
+    /* border: 2px red solid; */
+    text-align: right;
+    padding: 3rem ;
+    /* margin-left: 8rem; */
+    /* right:auto; */
+    
+    
+    
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* display: inline-block; */
+    
+    
+   
+    
+
+    
+    
+} 
+
+
+
+button{
+    background-color: red;
+    padding: 5px;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin-right: 12px;
+     /* margin-left: 80vw;  */
+    /*display:inline; */
+    /* margin-left: 3rem; */
+    right:auto;
+    
+}
+
+.content{
+    /* border: 2px blue solid; */
+    width: 100%;
+    height: 80%;
+    color:white;
+    text-align: center;
+    margin-top:12%;
+    font:bolder;
+}
+h1{
+   font-size:50px;
+}
+h3{
+    font-size: 35px;
+}
+h4{
+    font-size: 30px;
+}
