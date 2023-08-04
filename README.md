@@ -8,4 +8,4 @@ https://nipun0607.github.io/netflixcss/      hosted link
 'h1'tag is used to first heading
 'h3; is used for other hesading
 'h4'is used for other hesading
-where css is used to give style for the image .
+where css is used to give style for the image and web page
